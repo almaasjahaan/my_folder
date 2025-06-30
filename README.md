@@ -9,9 +9,13 @@
 
 ## 🛠️ Languages and Tools
 -Python
+
 -Java
+
 -HTML
+
 -CSS
+
 -C
 
 ## 💭 Motivation Quote
